@@ -5,6 +5,7 @@
 <title>タイトル</title>
 </head>
 <body>
-本文
+  <img src=“IMG_7780.jpg” alt=“惨敗” />
+
 </body>
 </html>
